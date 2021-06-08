@@ -1,4 +1,6 @@
-Vectorblox ORCA
+UPDATE: VectorBlox was aquired by Microchip in September, 2019. This repository was forked from the last known publicly available repository, and is now considered the official source. All RTL and software for the VectorBlox ORCA is under the Berkeley 3-clause open source license. Pull requests for bug fixes are welcome. For significant changes, please contact Guy Lemieux (lemieux@ece.ubc.ca).
+
+VectorBlox ORCA
 ================
 
 ORCA is an implementation of RISC-V. It is intended to target FPGAs and can be
